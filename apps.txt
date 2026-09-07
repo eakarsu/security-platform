@@ -1,0 +1,10 @@
+AIAutonomousPenTestingAgent
+AICyberSOCCopilot
+AIDeepfakeDetectionPlatform
+AIDetectcombatmisinformatio
+AIDigitalIdentityVerifiableCredentials
+AIMonitorrealtimeaudi
+AIOTSecOpsForICS
+AIPersonalSafetyLoneWorkerMonitor
+counter-swarm-defense
+security_detection

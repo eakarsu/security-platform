@@ -1,0 +1,62 @@
+[
+  {
+    "id": "AIAutonomousPenTestingAgent",
+    "name": "Autonomous pen testing agent",
+    "sourceProject": "AIAutonomousPenTestingAgent",
+    "services": []
+  },
+  {
+    "id": "AICyberSOCCopilot",
+    "name": "Cyber soccopilot",
+    "sourceProject": "AICyberSOCCopilot",
+    "services": []
+  },
+  {
+    "id": "AIDeepfakeDetectionPlatform",
+    "name": "Deepfake detection platform",
+    "sourceProject": "AIDeepfakeDetectionPlatform",
+    "services": []
+  },
+  {
+    "id": "AIDetectcombatmisinformatio",
+    "name": "Detectcombatmisinformatio",
+    "sourceProject": "AIDetectcombatmisinformatio",
+    "services": []
+  },
+  {
+    "id": "AIDigitalIdentityVerifiableCredentials",
+    "name": "Digital identity verifiable credentials",
+    "sourceProject": "AIDigitalIdentityVerifiableCredentials",
+    "services": []
+  },
+  {
+    "id": "AIMonitorrealtimeaudi",
+    "name": "Monitorrealtimeaudi",
+    "sourceProject": "AIMonitorrealtimeaudi",
+    "services": []
+  },
+  {
+    "id": "AIOTSecOpsForICS",
+    "name": "Otsec ops for ics",
+    "sourceProject": "AIOTSecOpsForICS",
+    "services": []
+  },
+  {
+    "id": "AIPersonalSafetyLoneWorkerMonitor",
+    "name": "Personal safety lone worker monitor",
+    "sourceProject": "AIPersonalSafetyLoneWorkerMonitor",
+    "services": []
+  },
+  {
+    "id": "counter-swarm-defense",
+    "name": "Counter swarm defense",
+    "sourceProject": "counter-swarm-defense",
+    "services": []
+  },
+  {
+    "id": "security_detection",
+    "name": "Security detection",
+    "sourceProject": "security_detection",
+    "services": []
+  }
+]

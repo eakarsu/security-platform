@@ -1,0 +1,8 @@
+{
+  "id": "security-platform",
+  "port": 46037,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:45.277Z"
+}

@@ -1,0 +1,9 @@
+{
+  "app": "security-platform",
+  "features": 248,
+  "sourceApps": 10,
+  "calculatorEngines": 0,
+  "registryHash": "23d5ca8b8cfa54c5af64e8396e9a0bc11f8a97b97279ec701063e4778138c2b4",
+  "builtAt": "2026-09-07T22:05:54.779Z",
+  "status": "built"
+}

@@ -1,0 +1,2350 @@
+{
+  "mapped": [
+    {
+      "project": "AIAutonomousPenTestingAgent",
+      "sourceKey": "triage",
+      "source": "/Volumes/external/projects/AIAutonomousPenTestingAgent",
+      "canonical": "triage",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutonomousPenTestingAgent",
+      "sourceKey": "enrich-cve",
+      "source": "/Volumes/external/projects/AIAutonomousPenTestingAgent",
+      "canonical": "enrich-cve",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "alerts",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "incidents",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "incidents",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "assets",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "assets",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "playbooks",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "playbooks",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "iocs",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "iocs",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "threat-intel-feed",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "threat-intel-feed",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "shift-roster",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "shift-roster",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "audit-log",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "vulnerabilities",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "vulnerabilities",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "exceptions",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "exceptions",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "change-requests",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "change-requests",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "vendor-risk",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "vendor-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "certificates",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "certificates",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "runbooks",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "runbooks",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "evidence-library",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "evidence-library",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "allowlists",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "allowlists",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "blocklists",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "blocklists",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/triage-alerts",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "triage-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/build-hunt",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "build-hunt",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/enrich-ioc",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "enrich-ioc",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/executive-brief",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "executive-brief",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/draft-playbook",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "draft-playbook",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/shift-handover",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "shift-handover",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/red-team",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "red-team",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/phishing-classifier",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "phishing-classifier",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/policy-diff",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "policy-diff",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/mitre-mapper",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "mitre-mapper",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/compromise-assess",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "compromise-assess",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/remediation-estimator",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "remediation-estimator",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/log-anomaly",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "log-anomaly",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/identity-risk",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "identity-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/supply-chain-scan",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "supply-chain-scan",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/breach-narrative",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "breach-narrative",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/false-positive-reducer",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "false-positive-reducer",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/playbook-recommend",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "playbook-recommend",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/post-incident-report",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "post-incident-report",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/log-query-copilot",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "log-query-copilot",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "ai/tabletop-exercise",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "tabletop-exercise",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "on-call",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "on-call",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "connections",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "production-gaps",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "production-gaps",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "production-controls",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "production-controls",
+      "kind": "route"
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "users",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "users",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "dashboard/stats",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "dashboard-stats",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "bookmarks",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "bookmarks",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "activity",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "cf/real-time-media-authentication",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "real-time-media-authentication",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "cf/social-media-monitoring",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "social-media-monitoring",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "cf/media-provenance-tracking",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "media-provenance-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "cf/explainability",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "explainability",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "gap/missing-detect-deepfake-analyze-media-detect-face-swapping-d",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "missing-detect-deepfake-analyze-media-detect-face-swapping-d",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "gap/no-media-processing-pipeline-wired-upload-stubs-only",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "media-processing-pipeline-wired-upload-stubs-only",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "gap/no-detection-results-database-schema",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "detection-results-database-schema",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "gap/limited-analytics-endpoint-coverage-beyond-plumbing",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "limited-analytics-endpoint-coverage-beyond-plumbing",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "gap/limited-social-platform-integration-for-automated-detection",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "limited-social-platform-integration-for-automated-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "sourceKey": "gap/no-calendar-integration",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "canonical": "calendar-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/claims",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "claims",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/factchecks",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "factchecks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/sources",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "sources",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/categories",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "categories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/trending",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "trending",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/narrative-cluster-attribution",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "narrative-cluster-attribution",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/ai/claim-analyzer",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "claim-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/ai/sentiment",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/ai/source-checker",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "source-checker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/ai/pattern-detector",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "pattern-detector",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/ai/summary-generator",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "summary-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/ai/auto-categorize",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "auto-categorize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/ai/trend-prediction",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "trend-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/ai/source-trace",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "source-trace",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/ai/personalized-debunk",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "personalized-debunk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/ai/realtime-monitor",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "realtime-monitor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/ai/integrations",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/team",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "team",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "cf/viral-misinformation-early-warning",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "viral-misinformation-early-warning",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "cf/misinformation-source-tracing",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "misinformation-source-tracing",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "cf/predictive-claim-verification",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "predictive-claim-verification",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "cf/debunking-personalization",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "debunking-personalization",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "cf/fact-check-seo-optimization",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "fact-check-seo-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "gap/trending-categories-lack-ai-endpoints-for-trend-prediction-a",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "trending-categories-lack-ai-endpoints-for-trend-prediction-a",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "gap/sources-lacks-ai-credibility-scoring-endpoint",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "sources-lacks-ai-credibility-scoring-endpoint",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "gap/limited-social-platform-integration-no-twitter-facebook-tikt",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "limited-social-platform-integration-no-twitter-facebook-tikt",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "gap/no-real-time-spread-monitoring-engine",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "real-time-spread-monitoring-engine",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "gap/limited-fact-check-network-integration-snopes-factcheck",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "limited-fact-check-network-integration-snopes-factcheck",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "gap/no-verdict-explainability-surface",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "verdict-explainability-surface",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "gap/no-webhooks",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "sourceKey": "gap/no-notifications-system",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "canonical": "notifications-system",
+      "kind": "route"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "verify-identity",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "verify-identity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "validate-credential",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "validate-credential",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "assess-risk",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "assess-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "detect-fraud",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "detect-fraud",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "check-compliance",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "check-compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "analyze-did",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "analyze-did",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "calculate-trust",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "calculate-trust",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "generate-credential",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "generate-credential",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "analyze-schema",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "analyze-schema",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "privacy-advice",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "privacy-advice",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "detect-anomalies",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "detect-anomalies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "dashboard-summary",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "dashboard-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "compliance-report",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "compliance-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "credential-batch-validate",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "credential-batch-validate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "identity-risk-report",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "identity-risk-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "revocation-impact",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "revocation-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "credential-chain-analyzer",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "credential-chain-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "issuer-workflow",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "issuer-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "verifier-workflow",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "verifier-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "selective-disclosure",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "selective-disclosure",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "blockchain-anchor",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "blockchain-anchor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalIdentityVerifiableCredentials",
+      "sourceKey": "status-list-check",
+      "source": "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials/client/src/pages/AICenter.jsx",
+      "canonical": "status-list-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/drivers",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "drivers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/vehicles",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "vehicles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/tracking",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/emergencies",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "emergencies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/threats",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "threats",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/behavior",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "behavior",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/fatigue",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "fatigue",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/speed",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "speed",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/routes",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/passengers",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "passengers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/weather",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/communications",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/ai/passenger-safety-score",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/pages/AIToolsPage.js",
+      "canonical": "passenger-safety-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/ai/road-hazard-detector",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/pages/AIToolsPage.js",
+      "canonical": "road-hazard-detector",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/ai/distraction-detection",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/pages/AIToolsPage.js",
+      "canonical": "distraction-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/ai/premium-adjustment",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/pages/AIToolsPage.js",
+      "canonical": "premium-adjustment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/routes",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/pages/Dashboard.js",
+      "canonical": "routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/pages/Dashboard.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/weather",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/pages/Dashboard.js",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/pages/Dashboard.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/threats",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/pages/Dashboard.js",
+      "canonical": "threats",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/tracking",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/pages/Dashboard.js",
+      "canonical": "tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "/communications",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/pages/Dashboard.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "sourceKey": "driver-coaching-escalation",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi",
+      "canonical": "driver-coaching-escalation",
+      "kind": "route"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ot-assets",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "ot-assets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/plcs",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "plcs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/hmis",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "hmis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/scada-servers",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "scada-servers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/safety-systems",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "safety-systems",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/control-loops",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "control-loops",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ics-alerts",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "ics-alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ics-incidents",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "ics-incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ics-runbooks",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "ics-runbooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ics-iocs",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "ics-iocs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/operator-actions",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "operator-actions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/network-zones",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "network-zones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/protocol-anomalies",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "protocol-anomalies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/network-baselines",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "network-baselines",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/firmware-versions",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "firmware-versions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/vendor-patches",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "vendor-patches",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/change-windows",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "change-windows",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/triage-ics-alert",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "triage-ics-alert",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/baseline-protocol",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "baseline-protocol",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/classify-incident",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "classify-incident",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/suggest-isolation",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "suggest-isolation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/draft-change-procedure",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "draft-change-procedure",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/vendor-patch-impact",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "vendor-patch-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/control-loop-anomaly",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "control-loop-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/safety-impact",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "safety-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/hunt-attack-path",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "hunt-attack-path",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/asset-criticality",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "asset-criticality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/network-segmentation",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "network-segmentation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/malicious-firmware-detect",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "malicious-firmware-detect",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/operator-action-review",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "operator-action-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/mitre-ics-mapper",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "mitre-ics-mapper",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "/ai/supply-chain-firmware",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS/frontend/src/pages/Dashboard.js",
+      "canonical": "supply-chain-firmware",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "ai/parse-protocol-payload",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "canonical": "parse-protocol-payload",
+      "kind": "route"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "ai/classify-asset",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "canonical": "classify-asset",
+      "kind": "route"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "ai/lateral-movement-narrative",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "canonical": "lateral-movement-narrative",
+      "kind": "route"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "ai/prioritize-vulns",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "canonical": "prioritize-vulns",
+      "kind": "route"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "network-conduits",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "canonical": "network-conduits",
+      "kind": "route"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "change-window-approvals",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "canonical": "change-window-approvals",
+      "kind": "route"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "sis-audit",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "canonical": "sis-audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "vendor-advisories",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "canonical": "vendor-advisories",
+      "kind": "route"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "production-gaps",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "canonical": "production-gaps",
+      "kind": "route"
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "sourceKey": "production-controls",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "canonical": "production-controls",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/workers",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "workers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/checkins",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "checkins",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/checkin-dashboard",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "checkin-dashboard",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/locations",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "locations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/heartbeat-map",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "heartbeat-map",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/geofences",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "geofences",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/cf-agentic-safety-orchestration",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "agentic-safety-orchestration",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/cf-computer-vision-incident-detection",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "computer-vision-incident-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/cf-behavioral-risk-profiling",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "behavioral-risk-profiling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/cf-environmental-hazard-sensing",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "environmental-hazard-sensing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/cf-peer-safety-networks",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "peer-safety-networks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/gap-equipment-without-equipment",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "equipment-without-equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/gap-compliance-without-audit",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "compliance-without-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/gap-shifts-without-burnout",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "shifts-without-burnout",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/gap-no-wearable-device-integration-smartwatch-beacon",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "wearable-device-integration-smartwatch-beacon",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/gap-no-integration-with-emergency-services-911-auto",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "integration-with-emergency-services-911-auto",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/gap-no-real",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "real",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/gap-limited-multi",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "limited-multi",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/gap-no-notifications-module-dedicated-route-relies-on-",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "notifications-module-dedicated-route-relies-on",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/gap-no-webhooks-for-external-dispatch-systems",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "webhooks-for-external-dispatch-systems",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/gap-no-native-mobile-app-despite-field",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "native-mobile-app-despite-field",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/emergencies",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "emergencies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/hazards",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "hazards",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/shifts",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "shifts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/training",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "training",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/risk-assessment",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/incident-analysis",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "incident-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/anomaly-detection",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "anomaly-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/emergency-response",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "emergencies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/route-safety",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/compliance-predictor",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "compliance-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/shift-optimizer",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "shift-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/hazard-prediction",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "hazard-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/training-recommender",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "training-recommender",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/safety-report",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "safety-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/history",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/risk-assess",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "risk-assess",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/emergency-display",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "emergency-display",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/safety-briefing",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "safety-briefing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/incident-report",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "incident-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "/ai/predictive",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "canonical": "predictive",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "equipment-failure",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/pages/AIPredictivePage.jsx",
+      "canonical": "equipment-failure",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "audit-readiness",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/pages/AIPredictivePage.jsx",
+      "canonical": "audit-readiness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "sourceKey": "burnout",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/pages/AIPredictivePage.jsx",
+      "canonical": "burnout",
+      "kind": "definition"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "/security-operations",
+      "source": "/Volumes/external/projects/counter-swarm-defense/frontend/src/components/Layout.tsx",
+      "canonical": "security-operations",
+      "kind": "definition"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "/threats",
+      "source": "/Volumes/external/projects/counter-swarm-defense/frontend/src/components/Layout.tsx",
+      "canonical": "threats",
+      "kind": "definition"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "/countermeasures",
+      "source": "/Volumes/external/projects/counter-swarm-defense/frontend/src/components/Layout.tsx",
+      "canonical": "countermeasures",
+      "kind": "definition"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "/deployments",
+      "source": "/Volumes/external/projects/counter-swarm-defense/frontend/src/components/Layout.tsx",
+      "canonical": "deployments",
+      "kind": "definition"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "/sensors",
+      "source": "/Volumes/external/projects/counter-swarm-defense/frontend/src/components/Layout.tsx",
+      "canonical": "sensors",
+      "kind": "definition"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/counter-swarm-defense/frontend/src/components/Layout.tsx",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "/zones",
+      "source": "/Volumes/external/projects/counter-swarm-defense/frontend/src/components/Layout.tsx",
+      "canonical": "zones",
+      "kind": "definition"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "threat-signatures",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "threat-signatures",
+      "kind": "route"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "fusion-tracks",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "fusion-tracks",
+      "kind": "route"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "engagements",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "engagements",
+      "kind": "route"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "effector-magazines",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "effector-magazines",
+      "kind": "route"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "roe",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "roe",
+      "kind": "route"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "high-capacity-interceptors",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "high-capacity-interceptors",
+      "kind": "route"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "non-kinetic-effectors",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "non-kinetic-effectors",
+      "kind": "route"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "autonomy-attack-vectors",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "autonomy-attack-vectors",
+      "kind": "route"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "cost-advantage",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "cost-advantage",
+      "kind": "route"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "ai-extras",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "extras",
+      "kind": "route"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "export",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "export",
+      "kind": "route"
+    },
+    {
+      "project": "counter-swarm-defense",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "verify-email",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "verify-email",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "incidents",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "incidents",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "threat-intel",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "threat-intel",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "compliance",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "compliance",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "siem",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "siem",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "hunting",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "hunting",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "mitre",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "mitre",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "kill-chain",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "kill-chain",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "detection-rules",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "detection-rules",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "soc-analyst",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "soc-analyst",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "threat-intel-feeds",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "threat-intel-feeds",
+      "kind": "route"
+    },
+    {
+      "project": "security_detection",
+      "sourceKey": "ai-analysis",
+      "source": "/Volumes/external/projects/security_detection",
+      "canonical": "analysis",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "AIAutonomousPenTestingAgent",
+      "key": "/attack-surface/:target_id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutonomousPenTestingAgent",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIAutonomousPenTestingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousPenTestingAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAutonomousPenTestingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousPenTestingAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAutonomousPenTestingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousPenTestingAgent",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAutonomousPenTestingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutonomousPenTestingAgent",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "key": "login",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICyberSOCCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICyberSOCCopilot",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/users/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/users/:id/analyze",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/feature/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/feature/:featureKey/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/feature/:featureKey/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/feature/:featureKey/:id/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "search",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/ts/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/ts/:featureKey/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/ts/:featureKey/ai-panel",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/ts/:featureKey/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "/ts/:featureKey/:id/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDeepfakeDetectionPlatform",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio/client/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIDetectcombatmisinformatio",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDetectcombatmisinformatio",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi/client/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIMonitorrealtimeaudi",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMonitorrealtimeaudi",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIOTSecOpsForICS",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIOTSecOpsForICS",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalSafetyLoneWorkerMonitor",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/counter-swarm-defense/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "login",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "ai",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "search",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "sample-data",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "counter-swarm-defense",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/counter-swarm-defense",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "security_detection",
+      "key": "login",
+      "source": "/Volumes/external/projects/security_detection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "security_detection",
+      "key": "register",
+      "source": "/Volumes/external/projects/security_detection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "security_detection",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "security_detection",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "security_detection",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/security_detection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "security_detection",
+      "key": "workflow",
+      "source": "/Volumes/external/projects/security_detection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "security_detection",
+      "key": "settings",
+      "source": "/Volumes/external/projects/security_detection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "security_detection",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/security_detection",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": []
+}

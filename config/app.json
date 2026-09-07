@@ -1,0 +1,35 @@
+{
+  "id": "security-platform",
+  "title": "Cybersecurity & digital trust",
+  "buyer": "Security teams and trusted-identity operators",
+  "sourceCount": 10,
+  "sources": [
+    "AIAutonomousPenTestingAgent",
+    "AICyberSOCCopilot",
+    "AIDeepfakeDetectionPlatform",
+    "AIDetectcombatmisinformatio",
+    "AIDigitalIdentityVerifiableCredentials",
+    "AIMonitorrealtimeaudi",
+    "AIOTSecOpsForICS",
+    "AIPersonalSafetyLoneWorkerMonitor",
+    "counter-swarm-defense",
+    "security_detection"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46037,
+  "productName": "Cybersecurity Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/AIAutonomousPenTestingAgent",
+    "/Volumes/external/projects/AICyberSOCCopilot",
+    "/Volumes/external/projects/AIDeepfakeDetectionPlatform",
+    "/Volumes/external/projects/AIDetectcombatmisinformatio",
+    "/Volumes/external/projects/AIDigitalIdentityVerifiableCredentials",
+    "/Volumes/external/projects/AIMonitorrealtimeaudi",
+    "/Volumes/external/projects/AIOTSecOpsForICS",
+    "/Volumes/external/projects/AIPersonalSafetyLoneWorkerMonitor",
+    "/Volumes/external/projects/counter-swarm-defense",
+    "/Volumes/external/projects/security_detection"
+  ]
+}

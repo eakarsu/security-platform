@@ -1,0 +1,686 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "draft-playbook",
+      "draft-change-procedure",
+      "verify-email"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 6 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "draft-playbook",
+        "title": "Draft playbook",
+        "originalPath": "/features/draft-playbook"
+      },
+      {
+        "id": "draft-change-procedure",
+        "title": "AI · Draft Change Procedure",
+        "originalPath": "/features/draft-change-procedure"
+      },
+      {
+        "id": "verify-email",
+        "title": "Verify email",
+        "originalPath": "/features/verify-email"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "triage-alerts",
+      "build-hunt",
+      "enrich-ioc",
+      "executive-brief",
+      "shift-handover",
+      "red-team",
+      "mitre-mapper",
+      "compromise-assess",
+      "remediation-estimator",
+      "supply-chain-scan",
+      "breach-narrative",
+      "false-positive-reducer",
+      "post-incident-report",
+      "log-query-copilot",
+      "tabletop-exercise",
+      "explainability",
+      "limited-analytics-endpoint-coverage-beyond-plumbing",
+      "summary-generator",
+      "verdict-explainability-surface",
+      "validate-credential",
+      "generate-credential",
+      "privacy-advice",
+      "dashboard-summary",
+      "credential-batch-validate",
+      "revocation-impact",
+      "issuer-workflow",
+      "verifier-workflow",
+      "selective-disclosure",
+      "blockchain-anchor",
+      "status-list-check",
+      "threats",
+      "behavior",
+      "maintenance",
+      "premium-adjustment",
+      "triage-ics-alert",
+      "baseline-protocol",
+      "suggest-isolation",
+      "vendor-patch-impact",
+      "hunt-attack-path",
+      "asset-criticality",
+      "network-segmentation",
+      "operator-action-review",
+      "mitre-ics-mapper",
+      "supply-chain-firmware",
+      "parse-protocol-payload",
+      "lateral-movement-narrative",
+      "prioritize-vulns",
+      "extras",
+      "kill-chain"
+    ],
+    "ai": true,
+    "representativeId": "triage-alerts",
+    "description": "One assistant for 49 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "triage-alerts",
+        "title": "Triage alerts",
+        "originalPath": "/features/triage-alerts"
+      },
+      {
+        "id": "build-hunt",
+        "title": "Build hunt",
+        "originalPath": "/features/build-hunt"
+      },
+      {
+        "id": "enrich-ioc",
+        "title": "Enrich ioc",
+        "originalPath": "/features/enrich-ioc"
+      },
+      {
+        "id": "executive-brief",
+        "title": "Executive brief",
+        "originalPath": "/features/executive-brief"
+      },
+      {
+        "id": "shift-handover",
+        "title": "Shift handover",
+        "originalPath": "/features/shift-handover"
+      },
+      {
+        "id": "red-team",
+        "title": "Red team",
+        "originalPath": "/features/red-team"
+      },
+      {
+        "id": "mitre-mapper",
+        "title": "Mitre mapper",
+        "originalPath": "/features/mitre-mapper"
+      },
+      {
+        "id": "compromise-assess",
+        "title": "Compromise assess",
+        "originalPath": "/features/compromise-assess"
+      },
+      {
+        "id": "remediation-estimator",
+        "title": "Remediation estimator",
+        "originalPath": "/features/remediation-estimator"
+      },
+      {
+        "id": "supply-chain-scan",
+        "title": "Supply chain scan",
+        "originalPath": "/features/supply-chain-scan"
+      },
+      {
+        "id": "breach-narrative",
+        "title": "Breach narrative",
+        "originalPath": "/features/breach-narrative"
+      },
+      {
+        "id": "false-positive-reducer",
+        "title": "False positive reducer",
+        "originalPath": "/features/false-positive-reducer"
+      },
+      {
+        "id": "post-incident-report",
+        "title": "Post incident report",
+        "originalPath": "/features/post-incident-report"
+      },
+      {
+        "id": "log-query-copilot",
+        "title": "Log query copilot",
+        "originalPath": "/features/log-query-copilot"
+      },
+      {
+        "id": "tabletop-exercise",
+        "title": "Tabletop exercise",
+        "originalPath": "/features/tabletop-exercise"
+      },
+      {
+        "id": "explainability",
+        "title": "Explainability",
+        "originalPath": "/features/explainability"
+      },
+      {
+        "id": "limited-analytics-endpoint-coverage-beyond-plumbing",
+        "title": "Limited analytics endpoint coverage beyond plumbing",
+        "originalPath": "/features/limited-analytics-endpoint-coverage-beyond-plumbing"
+      },
+      {
+        "id": "summary-generator",
+        "title": "Summary Generator",
+        "originalPath": "/features/summary-generator"
+      },
+      {
+        "id": "verdict-explainability-surface",
+        "title": "No verdict explainability surface",
+        "originalPath": "/features/verdict-explainability-surface"
+      },
+      {
+        "id": "validate-credential",
+        "title": "AI Credential Validator",
+        "originalPath": "/features/validate-credential"
+      },
+      {
+        "id": "generate-credential",
+        "title": "AI Credential Generator",
+        "originalPath": "/features/generate-credential"
+      },
+      {
+        "id": "privacy-advice",
+        "title": "AI Privacy Advisor",
+        "originalPath": "/features/privacy-advice"
+      },
+      {
+        "id": "dashboard-summary",
+        "title": "AI Dashboard Summary",
+        "originalPath": "/features/dashboard-summary"
+      },
+      {
+        "id": "credential-batch-validate",
+        "title": "AI Batch Credential Validator",
+        "originalPath": "/features/credential-batch-validate"
+      },
+      {
+        "id": "revocation-impact",
+        "title": "AI Revocation Impact",
+        "originalPath": "/features/revocation-impact"
+      },
+      {
+        "id": "issuer-workflow",
+        "title": "Issuer Workflow",
+        "originalPath": "/features/issuer-workflow"
+      },
+      {
+        "id": "verifier-workflow",
+        "title": "Verifier Workflow",
+        "originalPath": "/features/verifier-workflow"
+      },
+      {
+        "id": "selective-disclosure",
+        "title": "Selective Disclosure (simulated)",
+        "originalPath": "/features/selective-disclosure"
+      },
+      {
+        "id": "blockchain-anchor",
+        "title": "Blockchain Anchor (simulated)",
+        "originalPath": "/features/blockchain-anchor"
+      },
+      {
+        "id": "status-list-check",
+        "title": "Status-List Check (simulated)",
+        "originalPath": "/features/status-list-check"
+      },
+      {
+        "id": "threats",
+        "title": "Threat Assessment",
+        "originalPath": "/features/threats"
+      },
+      {
+        "id": "behavior",
+        "title": "Behavior Analytics",
+        "originalPath": "/features/behavior"
+      },
+      {
+        "id": "maintenance",
+        "title": "Maintenance",
+        "originalPath": "/features/maintenance"
+      },
+      {
+        "id": "premium-adjustment",
+        "title": "Insurance Premium Adjustment",
+        "originalPath": "/features/premium-adjustment"
+      },
+      {
+        "id": "triage-ics-alert",
+        "title": "AI · Triage ICS Alert",
+        "originalPath": "/features/triage-ics-alert"
+      },
+      {
+        "id": "baseline-protocol",
+        "title": "AI · Baseline Protocol",
+        "originalPath": "/features/baseline-protocol"
+      },
+      {
+        "id": "suggest-isolation",
+        "title": "AI · Suggest Isolation",
+        "originalPath": "/features/suggest-isolation"
+      },
+      {
+        "id": "vendor-patch-impact",
+        "title": "AI · Vendor Patch Impact",
+        "originalPath": "/features/vendor-patch-impact"
+      },
+      {
+        "id": "hunt-attack-path",
+        "title": "AI · Hunt Attack Path",
+        "originalPath": "/features/hunt-attack-path"
+      },
+      {
+        "id": "asset-criticality",
+        "title": "AI · Asset Criticality",
+        "originalPath": "/features/asset-criticality"
+      },
+      {
+        "id": "network-segmentation",
+        "title": "AI · Network Segmentation",
+        "originalPath": "/features/network-segmentation"
+      },
+      {
+        "id": "operator-action-review",
+        "title": "AI · Operator Action Review",
+        "originalPath": "/features/operator-action-review"
+      },
+      {
+        "id": "mitre-ics-mapper",
+        "title": "AI · MITRE ATT&CK ICS Mapper",
+        "originalPath": "/features/mitre-ics-mapper"
+      },
+      {
+        "id": "supply-chain-firmware",
+        "title": "AI · Supply-Chain Firmware",
+        "originalPath": "/features/supply-chain-firmware"
+      },
+      {
+        "id": "parse-protocol-payload",
+        "title": "Parse protocol payload",
+        "originalPath": "/features/parse-protocol-payload"
+      },
+      {
+        "id": "lateral-movement-narrative",
+        "title": "Lateral movement narrative",
+        "originalPath": "/features/lateral-movement-narrative"
+      },
+      {
+        "id": "prioritize-vulns",
+        "title": "Prioritize vulns",
+        "originalPath": "/features/prioritize-vulns"
+      },
+      {
+        "id": "extras",
+        "title": "Extras",
+        "originalPath": "/features/extras"
+      },
+      {
+        "id": "kill-chain",
+        "title": "Kill chain",
+        "originalPath": "/features/kill-chain"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "phishing-classifier",
+      "playbook-recommend",
+      "missing-detect-deepfake-analyze-media-detect-face-swapping-d",
+      "claim-analyzer",
+      "trend-prediction",
+      "trending-categories-lack-ai-endpoints-for-trend-prediction-a",
+      "sources-lacks-ai-credibility-scoring-endpoint",
+      "analyze-did",
+      "calculate-trust",
+      "analyze-schema",
+      "credential-chain-analyzer",
+      "road-hazard-detector",
+      "distraction-detection",
+      "classify-incident",
+      "malicious-firmware-detect",
+      "classify-asset",
+      "incident-analysis",
+      "shift-optimizer",
+      "hazard-prediction",
+      "training-recommender",
+      "predictive",
+      "equipment-failure",
+      "burnout",
+      "soc-analyst",
+      "analysis"
+    ],
+    "ai": true,
+    "representativeId": "phishing-classifier",
+    "description": "One assistant for 25 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "phishing-classifier",
+        "title": "Phishing classifier",
+        "originalPath": "/features/phishing-classifier"
+      },
+      {
+        "id": "playbook-recommend",
+        "title": "Playbook recommend",
+        "originalPath": "/features/playbook-recommend"
+      },
+      {
+        "id": "missing-detect-deepfake-analyze-media-detect-face-swapping-d",
+        "title": "Missing detect deepfake analyze media detect face swapping d",
+        "originalPath": "/features/missing-detect-deepfake-analyze-media-detect-face-swapping-d"
+      },
+      {
+        "id": "claim-analyzer",
+        "title": "Claim Analyzer",
+        "originalPath": "/features/claim-analyzer"
+      },
+      {
+        "id": "trend-prediction",
+        "title": "Trend Prediction",
+        "originalPath": "/features/trend-prediction"
+      },
+      {
+        "id": "trending-categories-lack-ai-endpoints-for-trend-prediction-a",
+        "title": "Trending categories lack ai endpoints for trend prediction a",
+        "originalPath": "/features/trending-categories-lack-ai-endpoints-for-trend-prediction-a"
+      },
+      {
+        "id": "sources-lacks-ai-credibility-scoring-endpoint",
+        "title": "Sources lacks ai credibility scoring endpoint",
+        "originalPath": "/features/sources-lacks-ai-credibility-scoring-endpoint"
+      },
+      {
+        "id": "analyze-did",
+        "title": "AI DID Analyzer",
+        "originalPath": "/features/analyze-did"
+      },
+      {
+        "id": "calculate-trust",
+        "title": "AI Trust Score Calculator",
+        "originalPath": "/features/calculate-trust"
+      },
+      {
+        "id": "analyze-schema",
+        "title": "AI Schema Analyzer",
+        "originalPath": "/features/analyze-schema"
+      },
+      {
+        "id": "credential-chain-analyzer",
+        "title": "AI Credential Chain Analyzer",
+        "originalPath": "/features/credential-chain-analyzer"
+      },
+      {
+        "id": "road-hazard-detector",
+        "title": "Road Hazard Detector",
+        "originalPath": "/features/road-hazard-detector"
+      },
+      {
+        "id": "distraction-detection",
+        "title": "Distraction Detection",
+        "originalPath": "/features/distraction-detection"
+      },
+      {
+        "id": "classify-incident",
+        "title": "AI · Classify Incident",
+        "originalPath": "/features/classify-incident"
+      },
+      {
+        "id": "malicious-firmware-detect",
+        "title": "AI · Malicious Firmware Detect",
+        "originalPath": "/features/malicious-firmware-detect"
+      },
+      {
+        "id": "classify-asset",
+        "title": "Classify asset",
+        "originalPath": "/features/classify-asset"
+      },
+      {
+        "id": "incident-analysis",
+        "title": "Incident Analysis",
+        "originalPath": "/features/incident-analysis"
+      },
+      {
+        "id": "shift-optimizer",
+        "title": "Shift Optimizer",
+        "originalPath": "/features/shift-optimizer"
+      },
+      {
+        "id": "hazard-prediction",
+        "title": "Hazard Prediction",
+        "originalPath": "/features/hazard-prediction"
+      },
+      {
+        "id": "training-recommender",
+        "title": "Training Recommender",
+        "originalPath": "/features/training-recommender"
+      },
+      {
+        "id": "predictive",
+        "title": "Predictive Tools",
+        "originalPath": "/features/predictive"
+      },
+      {
+        "id": "equipment-failure",
+        "title": "Equipment Failure Predict",
+        "originalPath": "/features/equipment-failure"
+      },
+      {
+        "id": "burnout",
+        "title": "Burnout Predict",
+        "originalPath": "/features/burnout"
+      },
+      {
+        "id": "soc-analyst",
+        "title": "Soc analyst",
+        "originalPath": "/features/soc-analyst"
+      },
+      {
+        "id": "analysis",
+        "title": "Analysis",
+        "originalPath": "/features/analysis"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "policy-diff",
+      "log-anomaly",
+      "identity-risk",
+      "predictive-claim-verification",
+      "verify-identity",
+      "assess-risk",
+      "detect-fraud",
+      "check-compliance",
+      "detect-anomalies",
+      "compliance-report",
+      "identity-risk-report",
+      "routes",
+      "passenger-safety-score",
+      "control-loop-anomaly",
+      "safety-impact",
+      "risk-assessment",
+      "compliance-predictor",
+      "risk-assess",
+      "audit-readiness"
+    ],
+    "ai": true,
+    "representativeId": "policy-diff",
+    "description": "One assistant for 19 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "policy-diff",
+        "title": "Policy diff",
+        "originalPath": "/features/policy-diff"
+      },
+      {
+        "id": "log-anomaly",
+        "title": "Log anomaly",
+        "originalPath": "/features/log-anomaly"
+      },
+      {
+        "id": "identity-risk",
+        "title": "Identity risk",
+        "originalPath": "/features/identity-risk"
+      },
+      {
+        "id": "predictive-claim-verification",
+        "title": "Predictive claim verification",
+        "originalPath": "/features/predictive-claim-verification"
+      },
+      {
+        "id": "verify-identity",
+        "title": "AI Identity Verification",
+        "originalPath": "/features/verify-identity"
+      },
+      {
+        "id": "assess-risk",
+        "title": "AI Risk Assessment",
+        "originalPath": "/features/assess-risk"
+      },
+      {
+        "id": "detect-fraud",
+        "title": "AI Fraud Detection",
+        "originalPath": "/features/detect-fraud"
+      },
+      {
+        "id": "check-compliance",
+        "title": "AI Compliance Checker",
+        "originalPath": "/features/check-compliance"
+      },
+      {
+        "id": "detect-anomalies",
+        "title": "AI Anomaly Detector",
+        "originalPath": "/features/detect-anomalies"
+      },
+      {
+        "id": "compliance-report",
+        "title": "AI Compliance Report Export",
+        "originalPath": "/features/compliance-report"
+      },
+      {
+        "id": "identity-risk-report",
+        "title": "AI Identity Risk Report",
+        "originalPath": "/features/identity-risk-report"
+      },
+      {
+        "id": "routes",
+        "title": "Route Safety",
+        "originalPath": "/features/routes"
+      },
+      {
+        "id": "passenger-safety-score",
+        "title": "Passenger Safety Score",
+        "originalPath": "/features/passenger-safety-score"
+      },
+      {
+        "id": "control-loop-anomaly",
+        "title": "AI · Control Loop Anomaly",
+        "originalPath": "/features/control-loop-anomaly"
+      },
+      {
+        "id": "safety-impact",
+        "title": "AI · Safety Impact",
+        "originalPath": "/features/safety-impact"
+      },
+      {
+        "id": "risk-assessment",
+        "title": "Risk Assessment",
+        "originalPath": "/features/risk-assessment"
+      },
+      {
+        "id": "compliance-predictor",
+        "title": "Compliance Predictor",
+        "originalPath": "/features/compliance-predictor"
+      },
+      {
+        "id": "risk-assess",
+        "title": "Risk Assess Tool",
+        "originalPath": "/features/risk-assess"
+      },
+      {
+        "id": "audit-readiness",
+        "title": "Audit Readiness Score",
+        "originalPath": "/features/audit-readiness"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "sentiment"
+    ],
+    "ai": true,
+    "representativeId": "sentiment",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "sentiment",
+        "title": "Sentiment Analysis",
+        "originalPath": "/features/sentiment"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "history",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "history",
+        "title": "AI History",
+        "originalPath": "/features/history"
+      }
+    ]
+  }
+]
